@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": "jonu",
+      "name": "jonsi",
+      "password": "jonsi@123",
+      "email": "jonu@gmail.com",
+      "Phone": "4434242",
+      "country": "india",
+      "address": "fsfsfsofsfosf",
+      "gender": "female"
+    },
+    {
+      "id": "ccasfaf",
+      "name": "Jonsi Ranpariya",
+      "password": "1234",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "male"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "name": "Jonsi Ranpariya",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "active": true
+    }
+  ]
+}
